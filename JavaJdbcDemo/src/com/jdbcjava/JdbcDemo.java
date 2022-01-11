@@ -8,6 +8,7 @@ import java.sql.PreparedStatement;
 
 public class JdbcDemo {
 	public static void main(String[] args) {
+		// Muni Singh
 		Connection con=null;
 		Statement stmt=null;
 		ResultSet rs=null;
